@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+*.log
+.DS_Store
+coverage/
+tests/e2e/shots/
+# raw dictionary dumps are large and must not be committed; see docs/DICTIONARY.md
+data-raw/
